@@ -1,19 +1,19 @@
 ### 👋 Hi, I’m @TheodoreAI
- 👀 I’m interested in frameworks such as Vue, Nuxt.js, PWA platforms such as Ionic, and Flutter mobile apps. 
- 🖥️ I am interested in research to generate non-pseudo random numbers with quantum devices. 
- 🌱 I’m currently learning VueJs, Ionic, and Flutter
- 💞️ I’m looking to collaborate on the application of cryptography and non-pseudo random number generators. 
- 📫 mateoej12@gmail.com
+ - 👀 I’m interested in frameworks such as Vue, Nuxt.js, IOS Flutter mobile apps. 
+ - 🖥️ I am interested in graphics with OpenGL and Vulkan. 
+ - 🌱 I’m currently learning Rust (The Rust Programming Language) and reading The C Programming Language
+ - 💞️ I’m looking to collaborate on Open Source Projects
+ - 📫 mateoej12@gmail.com
  
  ```mermaid
   stateDiagram-v2
-  [*] --> Still
-  Still --> [*]
+  [*] --> TheodoreAI
+  TheodoreAI --> [*]
 
-  still --> Moving
-  Moving --> Still
-  Moving --> Crash
-  Crash --> [*]
+  TheodoreAI --> OpenSource
+  OpenSource --> TheodoreAI
+  OpenSource --> TheBookBorrower
+  TheBookBorrower --> [*]
 ```
 
 <!---

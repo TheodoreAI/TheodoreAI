@@ -17,7 +17,7 @@
   TheVibe --> planet
   planet --> [*]
 ```
-*Fig. 1: Breakdown of favorite repos*
+*Fig. 1: Recent repos*
 
 <!---
 TheodoreAI/TheodoreAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

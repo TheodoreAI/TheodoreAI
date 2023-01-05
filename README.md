@@ -15,10 +15,10 @@
   OpenSource --> TheodoreAI
   OpenSource --> TheBookBorrower
   TheBookBorrower --> TheVibe
-  TheVibe --> planet
-  planet --> [*]
+  TheVibe --> Bitbrane
+  Bitbrane --> [*]
 ```
-*Fig. 1: Recent repos*
+*Fig. 1: Recent projects*
 
 <!---
 TheodoreAI/TheodoreAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

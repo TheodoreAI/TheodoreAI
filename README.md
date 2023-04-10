@@ -1,4 +1,5 @@
 👋 Welcome to @TheodoreAI's GitHub Profile
+
 About Me:
 
 🎓 Currently pursuing a Master's of Engineering degree in Computer Science at Oregon State University, with a focus on computer graphics, machine learning, and cybersecurity.
@@ -6,7 +7,9 @@ About Me:
 📚 Continuously learning and improving my skills, currently exploring Rust with The Rust Programming Language book and deepening my understanding of C with The C Programming Language.
 🤝 Eager to collaborate with open-source communities and contribute to meaningful projects.
 📩 Feel free to reach out to me via email at mateoej12@gmail.com.
-I'm always open to learning new things and engaging with like-minded individuals. Let's connect and build something amazing together!
+
+I'm always open to learning new things and engaging with like-minded individuals.
+Let's connect and build something amazing together!
  
  ```mermaid
   stateDiagram-v2

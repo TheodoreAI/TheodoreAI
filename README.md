@@ -17,15 +17,14 @@ I'm always open to learning new things and engaging with like-minded individuals
   TheodoreAI --> [*]
 
   TheodoreAI --> OpenSource
+  TheodoreAI --> Grad School
+  Grad School --> Research
   OpenSource --> TheodoreAI
   OpenSource --> TheBookBorrower
   TheBookBorrower --> TheVibe
   TheVibe --> Bitbrane
   Bitbrane --> [*]
   
-  TheBookBorrower: https://github.com/TheBookBorrower
-  TheVibe: https://github.com/TheVibeProject
-  Bitbrane: https://github.com/Bitbrane
 ```
 *Fig. 1: Recent projects*
 

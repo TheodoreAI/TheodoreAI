@@ -2,7 +2,7 @@
 
 About Me:
 
-- 🎓 Currently pursuing a Master's of Engineering degree in Computer Science at Oregon State University, with a focus on computer graphics, machine learning, and cybersecurity.
+- 🎓 Currently pursuing a Master's of Engineering degree in Computer Science at Oregon State University, with a focus on computer graphics, machine learning, and Human Computer Interaction.
 - 💻 Professionally experienced in front-end and back-end development.
 - 📚 Continuously learning and improving my technical skills, currently exploring C with [The C Programming Language](https://www.amazon.com/exec/obidos/ASIN/0131103628/ref=nosim/cboard-20).
 - 🤝 Eager to collaborate with open-source communities and contribute to meaningful projects.
@@ -14,16 +14,27 @@ I'm always open to learning new things and engaging with like-minded individuals
  ```mermaid
   stateDiagram-v2
   [*] --> TheodoreAI
-  TheodoreAI --> [*]
 
-  TheodoreAI --> OpenSource
-  TheodoreAI --> Grad School
-  Grad School --> Research
-  OpenSource --> TheodoreAI
-  OpenSource --> TheBookBorrower
-  TheBookBorrower --> TheVibe
-  TheVibe --> Bitbrane
+  TheodoreAI --> FrontEnd
+  FrontEnd --> OpenSource
+  OpenSource --> Bitbrane
   Bitbrane --> [*]
+  
+  TheodoreAI --> BackEnd
+  BackEnd --> TheBookBorrower
+  TheBookBorrower --> AllIneOneStudio
+  AllIneOneStudio --> [*]
+
+  TheodoreAI --> GradSchool
+  GradSchool --> Systems
+  Systems --> Research
+  Research --> [*]
+ 
+  TheodoreAI --> AI
+  AI --> TheVibe
+  TheVibe --> [*]
+
+[*]
   
 ```
 *Fig. 1: Recent projects*

@@ -23,15 +23,15 @@ I'm always open to learning new things and engaging with like-minded individuals
   TheodoreAI --> BackEnd
   BackEnd --> TheBookBorrower
   TheBookBorrower --> AllIneOneStudio
-  AllIneOneStudio --> [*]
+  AllInOneStudio --> [*]
 
   TheodoreAI --> GradSchool
   GradSchool --> Systems
   Systems --> Research
   Research --> [*]
  
-  TheodoreAI --> AI
-  AI --> TheVibe
+  TheodoreAI --> MachineLearning
+  MachineLearning --> TheVibe
   TheVibe --> [*]
 
 [*]

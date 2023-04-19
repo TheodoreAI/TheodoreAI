@@ -22,7 +22,7 @@ I'm always open to learning new things and engaging with like-minded individuals
   
   TheodoreAI --> BackEnd
   BackEnd --> TheBookBorrower
-  TheBookBorrower --> AllIneOneStudio
+  TheBookBorrower --> AllInOneStudio
   AllInOneStudio --> [*]
 
   TheodoreAI --> GradSchool
@@ -37,7 +37,7 @@ I'm always open to learning new things and engaging with like-minded individuals
 [*]
   
 ```
-*Fig. 1: Recent projects*
+*Fig. 1: My engineering interests and their projects.*
 
 <!---
 TheodoreAI/TheodoreAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

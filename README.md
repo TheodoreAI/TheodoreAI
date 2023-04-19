@@ -22,6 +22,7 @@ I'm always open to learning new things and engaging with like-minded individuals
   TheBookBorrower --> TheVibe
   TheVibe --> Bitbrane
   Bitbrane --> [*]
+  
   TheBookBorrower: https://github.com/TheBookBorrower
   TheVibe: https://github.com/TheVibeProject
   Bitbrane: https://github.com/Bitbrane

@@ -2,9 +2,9 @@
 
 About Me:
 
-- 🎓 Currently pursuing a Master's of Engineering at Oregon State University, with a focus on high-performance computing.
+- 🎓 Currently pursuing a Master's of Engineering at Oregon State University, with a focus on systems engineering (computer graphics, high performance computing, human computer interaction), and interpersonal communication - because we all know that the difficult part of engineering a new project is collecting project requirements from all stakeholders.
 - 💻 Professionally experienced in front-end and back-end software development.
-- 📚 Continuously learning and finding ways to improve technical skills, currently using C/C++ with [The C Programming Language](https://www.amazon.com/exec/obidos/ASIN/0131103628/ref=nosim/cboard-20) & [Programming Principles and Practice Using C++](https://dl.icdst.org/pdfs/files3/fef0590f02fa06bb42cba558fbc9e51c.pdf) to test Monte Carlo Simulations and Fourier Analysis on High Performance Computing clusters.
+- 📚 Continuously learning and finding ways to improve both technical and interpersonal skills, currently using C/C++ MPI (message process interface) to test Monte Carlo Simulations and Fourier Analysis on High Performance Computing clusters. 
 - 🤝 Eager to collaborate with open-source communities and contribute to projects in high performance computing, new programming languages, or JavaScript libraries.
 
 - 📩 Feel free to reach out to me via email at mateoej12@gmail.com.

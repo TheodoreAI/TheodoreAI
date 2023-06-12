@@ -30,7 +30,9 @@ Let's connect and build something the community could use to make our lives easi
   TheodoreAI --> GradSchool
   GradSchool --> Systems
   Systems --> Research
-  Research --> [*]
+  Research --> MonteCarloSimulations
+  MonteCarloSimulations --> FourierAnalysis
+  FourierAnalysis --> [*]
  
   TheodoreAI --> MachineLearning
   MachineLearning --> TheVibe

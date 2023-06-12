@@ -11,7 +11,7 @@ About Me:
 
 
 
-Let's connect and build something the community could use to make their lives easier.
+Let's connect and build something the community could use to make our lives easier.
  
  ```mermaid
   stateDiagram-v2

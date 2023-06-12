@@ -2,7 +2,7 @@
 
 About Me:
 
-- 🎓 Currently pursuing a Master's of Engineering at Oregon State University, with a focus on systems engineering (computer graphics, high performance computing, human computer interaction), and interpersonal communication - because we all know that the difficult part of engineering a new project is collecting project requirements from all stakeholders.
+- 🎓 Currently pursuing a Master's of Engineering at Oregon State University, with a focus on systems engineering (computer graphics, high performance computing, human computer interaction), and interpersonal communication - because the difficult part of engineering a new project is agreeing on project requirements across stakeholders.
 - 💻 Professionally experienced in front-end and back-end software development.
 - 📚 Continuously learning and finding ways to improve both technical and interpersonal skills, currently using C/C++ MPI (message process interface) to test Monte Carlo Simulations and Fourier Analysis on High Performance Computing clusters. 
 - 🤝 Eager to collaborate with open-source communities and contribute to projects in high performance computing, new programming languages, or JavaScript libraries.

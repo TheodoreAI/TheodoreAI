@@ -2,7 +2,7 @@
 
 About Me:
 
-- 🎓 Currently pursuing a Master's of Engineering at Oregon State University, with a focus on computer graphics, machine learning, and Human Computer Interaction.
+- 🎓 Currently pursuing a Master's of Engineering at Oregon State University, with a focus on high-performance computing.
 - 💻 Professionally experienced in front-end and back-end development.
 - 📚 Continuously learning and improving my technical skills, currently exploring C with [The C Programming Language](https://www.amazon.com/exec/obidos/ASIN/0131103628/ref=nosim/cboard-20).
 - 🤝 Eager to collaborate with open-source communities and contribute to meaningful projects.

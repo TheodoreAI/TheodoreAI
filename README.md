@@ -41,7 +41,7 @@ Let's connect and build something the community could use to make our lives easi
 [*]
   
 ```
-*Fig. 1: My engineering interests and some example projects (This graph was generated using the Mermaid language, for more info on this please refer to: [Mermaid Docs](https://mermaid.js.org.)*
+*Fig. 1: My engineering interests and some example projects (This graph was generated using the Mermaid language, for more info on this please refer to: [Mermaid Docs](https://mermaid.js.org).*
 
 <!---
 TheodoreAI/TheodoreAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

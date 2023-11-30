@@ -1,6 +1,6 @@
 👋 Welcome to @TheodoreAI's GitHub Profile
 
-About Me:
+Short About Me:
 
 - 🎓 Currently pursuing a Master's of Engineering at Oregon State University, with a focus on systems engineering (computer graphics, high performance computing, human computer interaction), and interpersonal communication - because the difficult part of engineering a new project is agreeing on project requirements across stakeholders.
 - 💻 Professionally experienced in front-end and back-end software development.

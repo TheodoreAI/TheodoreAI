@@ -13,36 +13,6 @@ About Me:
 
 
 Let's connect and build something the community could use to make our lives easier.
- 
- ```mermaid
-  stateDiagram-v2
-  [*] --> TheodoreAI
-
-  TheodoreAI --> FrontEnd
-  FrontEnd --> OpenSource
-  OpenSource --> Bitbrane
-  Bitbrane --> [*]
-  
-  TheodoreAI --> BackEnd
-  BackEnd --> TheBookBorrower
-  TheBookBorrower --> AllInOneStudio
-  AllInOneStudio --> [*]
-
-  TheodoreAI --> GradSchool
-  GradSchool --> Systems
-  Systems --> Research
-  Research --> MonteCarloSimulations
-  MonteCarloSimulations --> FourierAnalysis
-  FourierAnalysis --> [*]
- 
-  TheodoreAI --> MachineLearning
-  MachineLearning --> TheVibe
-  TheVibe --> [*]
-
-[*]
-  
-```
-*Fig. 1: My engineering interests and some example projects (This graph was generated using the Mermaid tool, for more info on this please refer to: [Mermaid Docs](https://mermaid.js.org/intro).*
 
 <!---
 TheodoreAI/TheodoreAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

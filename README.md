@@ -12,7 +12,7 @@ About Me:
 
 
 
-Let's connect and build something the community could use to make our lives easier.
+Let's connect and build something the community could use to make life easier.
 
 <!---
 TheodoreAI/TheodoreAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

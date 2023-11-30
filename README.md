@@ -6,7 +6,7 @@ Short About Me:
 - 💻 Professionally experienced in front-end and back-end software development.
 - 👨‍🔬 Academic experience with data science in the field of computational-biology [Pygmy Blue Whales From NZ](https://royalsocietypublishing.org/doi/10.1098/rsos.220242)
 - 📚 Continuously learning and finding ways to improve both technical and interpersonal skills, currently using C/C++ MPI (message process interface) to test Monte Carlo Simulations and Fourier Analysis on High Performance Computing clusters. 
-- 🤝 Eager to collaborate with open-source communities and contribute to projects in high performance computing, new programming languages, or JavaScript libraries.
+- 🤝 Eager to collaborate with open-source communities and contribute to projects in high performance computing, the Rust programming languages, or JavaScript libraries.
 
 - 📩 Feel free to reach out to me via email at mateoej12@gmail.com.
 

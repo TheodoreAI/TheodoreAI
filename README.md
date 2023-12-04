@@ -6,13 +6,13 @@ Short About Me:
 - 💻 Professionally experienced in "front-end" and "back-end" software engineering.
 - 👨‍🔬 Academic experience with data science in the field of computational-biology [Pygmy Blue Whales From NZ](https://royalsocietypublishing.org/doi/10.1098/rsos.220242)
 - 📚 Continuously learning and finding ways to improve both technical and interpersonal skills, currently using C/C++ MPI (message process interface) to test Monte Carlo Simulations and Fourier Analysis on High Performance Computing clusters at OSU. 
-- 🤝 Eager to collaborate with open-source communities and contribute to projects in high performance computing, the Rust programming language, and especially JavaScript libraries.
+- 🤝 Eager to collaborate with open-source communities and contribute to projects in high performance computing, the Rust programming language, and especially any software libraries written in C/C++, Rust, JavaScript, and Python.
 
 - 📩 Feel free to reach out to me via email at mateoej12@gmail.com.
 
 
 
-Let's connect and build something the community could use to make life easier.
+Let's connect and build something the High Performance Computing community could use to make life easier.
 
 <!---
 TheodoreAI/TheodoreAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

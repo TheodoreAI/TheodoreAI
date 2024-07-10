@@ -4,7 +4,7 @@
 
 - I am a programmer obsessed with programming languages. A few worthy mentions - C++, JavaScript, C, Python, Rust, Haskell, Dart and looking into more. 
 
-Let's connect and build something the High Performance Computing community could use to make life easier.
+Let's connect and build something the software community could use to make life easier.
 
 <!---
 TheodoreAI/TheodoreAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

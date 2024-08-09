@@ -2,9 +2,9 @@
 
 **About Me**
 
-- I am a programmer obsessed with programming languages. A few worthy mentions - C++, JavaScript, C, Python, Rust, Haskell, Dart and looking into more. 
+- I am a programmer obsessed with programming languages. A few worthy mentions: MASM Assembly, C++, JavaScript, C, Python, Bash, Rust, Haskell, Dart and looking into more. 
 
-Let's connect and build something the software community could use to make life easier.
+Let's connect? I am interested in helping build tools the software community needs to make programming more accessible and fun.
 
 <!---
 TheodoreAI/TheodoreAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

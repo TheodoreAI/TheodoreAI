@@ -2,7 +2,7 @@
 
 **About Me**
 
-- I am a programmer obsessed with programming languages. A few worthy mentions: MASM Assembly, C++, JavaScript, C, Python, Bash, Rust, Haskell, Dart and looking into more. 
+- I am a programmer obsessed with programming languages. A few worthy mentions: Microsoft Macro Assembler (MASM), C++, JavaScript, C, Python, Bash, Rust, Haskell, Dart and looking into more. 
 
 Let's connect? I am interested in helping build tools the software community needs to make programming more accessible and fun.
 

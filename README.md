@@ -4,7 +4,7 @@
 
 - I am a programmer obsessed with programming languages. A few worthy mentions: Microsoft Macro Assembler (MASM), C++, JavaScript, C, Python, Bash, Rust, Haskell, Dart and looking into more. 
 
-Let's connect? I am interested in helping build tools the software community needs to make programming environmentally sustainable.
+Let's connect? I am interested in building tools the software community needs to make programming more environmentally sustainable.
 
 <!---
 TheodoreAI/TheodoreAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

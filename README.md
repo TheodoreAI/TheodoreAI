@@ -2,7 +2,7 @@
 
 **About Me**
 
-Software Engineer with a specialization in APIs, cloud computing, and 3D graphics.  
+Software Engineer with a specialization in APIs, cloud computing, computer graphics, and network security.  
 
 <!---
 TheodoreAI/TheodoreAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

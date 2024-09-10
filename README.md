@@ -1,6 +1,6 @@
 👋 Welcome to @TheodoreAI's GitHub Profile
 
-Software Engineer with a specialization in APIs, cloud computing, computer graphics, and network security.  
+Software Engineer with a specialization in APIs (NodeJs, Rust, C++), cloud computing, computer graphics (OpenGL, WebGL), and network security (Wireshark, tcpdump).  
 
 <!---
 TheodoreAI/TheodoreAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

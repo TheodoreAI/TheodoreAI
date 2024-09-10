@@ -1,7 +1,5 @@
 👋 Welcome to @TheodoreAI's GitHub Profile
 
-**About Me**
-
 Software Engineer with a specialization in APIs, cloud computing, computer graphics, and network security.  
 
 <!---

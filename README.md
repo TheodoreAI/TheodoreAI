@@ -1,4 +1,6 @@
-Software Engineer with a specialization in APIs (NodeJs, Deno, Rocket Rust, C++20), cloud computing, computer graphics (OpenGL, WebGL), and network security (Wireshark, tcpdump).  
+Hi
+
+site: https://theodoreai.github.io/
 
 <!---
 TheodoreAI/TheodoreAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,4 @@
-Hi
-
-site: https://theodoreai.github.io/
+Hello
 
 <!---
 TheodoreAI/TheodoreAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

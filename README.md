@@ -12,6 +12,10 @@ This started as a hobby of building a small webpage for a barbershop and a tatto
 
 I have always been drawn to a good webpage. 
 
+Oh and I am getting my Masters Degree cause I want to become better at this whole thing. 
+But also so I can officially call myself an engineer, not that that matters cause in our field the work speaks for itself.
+Anyways, that is pretty much this slice of my life. Feel free to follow or reach out. I am always on the lookout for the next big idea that will capture me for the next 6 months. 
+
 <!---
 TheodoreAI/TheodoreAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

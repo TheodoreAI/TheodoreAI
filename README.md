@@ -3,7 +3,7 @@ Hi, I am a software developer. My primary interests are programming languages, 2
 The fun part of CS is how other fields can be used in CS. 
 
 Fun things I like to work with:
-- shaders (opengl)
+- Shaders (opengl) - fragment, vertex, tesselations, geometry 
 - Using Python to avoid excel
 - JavaScript in the server
 - Rewriting things in Rust (cause why not)

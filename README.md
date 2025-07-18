@@ -6,7 +6,7 @@ Fun things I like to work with:
 - Shaders (opengl) - fragment, vertex, tesselations, geometry 
 - Using Python to avoid excel
 - JavaScript in the server
-- Rewriting things in Rust (cause why not)
+- C++ Programming in computer graphics and high performance computing
 
 This started as a hobby of building a small webpage for a barbershop and a tattoo parlor. And well it has grown into more. 
 

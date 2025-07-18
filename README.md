@@ -1,4 +1,4 @@
-My primary interests are programming languages, 2D and 3D graphics, and creating forms. I enjoy using math and physics to create 3D graphics. Feel free to checkout my repos. They are all projects at various stages of development. Some are plain projects in order to evaluate the pros and cons of programming libraries or programming languages. My other GitHub account is @MateoEstradaOSU - where I write all my professional projects for fields like biology, sociology, anthropology, fish and wildlife, and and much more. 
+My primary interests are programming languages, 2D and 3D graphics, and creating forms. I enjoy using math and physics to create 3D graphics. Feel free to checkout my repos. They are all projects at various stages of development. Some are plain projects in order to evaluate the pros and cons of programming libraries or programming languages. My other GitHub account is @MateoEstradaOSU - where I write all my professional projects for fields like biology, sociology, anthropology, fish and wildlife, and more. 
 
 The fun part of CS is how other fields can be used in CS. 
 

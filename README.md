@@ -2,16 +2,16 @@ My primary interests are programming languages, 2D and 3D graphics, and creating
 
 The fun part of CS is how other fields can be used in CS. 
 
-Technology I have been trained to work with:
-- Shaders (opengl) - fragment, vertex, tesselations, geometry 
+Tech I have experience with:
+- Shaders (OpenGL) - fragment, vertex, tesselations, geometry 
 - Flask, Django (Python)
 - VueJs, Nuxt, React (JavaScript)
-- C++ Programming in computer graphics and high performance computing
-- Haskell - Functional Programming
-- Java - Object Oriented Programming
+- C++
+- Haskell 
+- Java 
+- Rust 
 
-This started as a hobby of building a small webpage for a barbershop and a tattoo parlor. And well it has grown into more. 
-I have always been drawn to a good webpage. 
+I hold the position of Analyst Programmer for the last 5 years. 
 
 <!---
 TheodoreAI/TheodoreAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

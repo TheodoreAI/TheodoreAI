@@ -11,7 +11,7 @@ Tech I have experience with:
 - Java 
 - Rust 
 
-I have held the position of Analyst Programmer for the last 4 years. 
+I have held the position of Analyst Programmer for the last 4 years at Oregon State University.
 
 <!---
 TheodoreAI/TheodoreAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
